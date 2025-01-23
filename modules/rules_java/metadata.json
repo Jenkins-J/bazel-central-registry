@@ -77,7 +77,8 @@
         "8.7.0",
         "8.7.1",
         "ppc64le",
-	"ppc64le-7.12.3"
+	"ppc64le-7.12.3",
+        "ppc64le-7.6.5"
     ],
     "yanked_versions": {
         "6.3.3": "6.3.3 is a broken version.",
